@@ -1,7 +1,7 @@
 # A simple makefile for C and C++ mixed project (Version II)
 
 # Name of the main executable file.
-target = main
+target = myshell
 
 # Choose the compiler(e.g. gcc/clang)
 compilerc = gcc
